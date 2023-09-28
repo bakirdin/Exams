@@ -1,0 +1,479 @@
+.box-section, .box-section * {
+    box-sizing: border-box;
+    }
+.box-section {
+   width: 1275px;
+    height: 827px;
+    position: relative;
+   }
+
+.klipartz-5 {
+   width: 557px;
+    height: 719px;
+    position: absolute;
+    left: 665px;
+   top: 86px;
+   }
+
+.box-navigation {
+   width: 1152px;
+    height: 42px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.plant {
+   color: #1a1a1a;
+    text-align: left;
+    font: 700 24px 'Nunito', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 7px;
+    width: 60px;
+    height: 28.66px;
+   }
+
+.login {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: absolute;
+    left: 980px;
+   top: 11px;
+    width: 43px;
+    height: 20px;
+   }
+
+.contact {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: absolute;
+    left: 791px;
+   top: 11px;
+    width: 61px;
+    height: 19.42px;
+   }
+
+.blog {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: absolute;
+    left: 711px;
+   top: 11px;
+    width: 32px;
+    height: 19.42px;
+   }
+
+.about-us {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: absolute;
+    left: 594px;
+   top: 11px;
+    width: 69px;
+    height: 19.42px;
+   }
+
+.services {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: absolute;
+    left: 483px;
+   top: 11px;
+    width: 63px;
+    height: 19.42px;
+   }
+
+.home {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: absolute;
+    left: 391px;
+   top: 11px;
+    width: 44px;
+    height: 19.42px;
+   }
+
+.frame-1 {
+   background: #066f14;
+    border-radius: 4px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 1071px;
+   top: 0px;
+   }
+
+.sing-up {
+   color: #ffffff;
+    text-align: left;
+    font: 400 14px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.frame-2 {
+   display: flex;
+    flex-direction: column;
+    gap: 60px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 0px;
+   top: 138px;
+   }
+
+.frame-3 {
+   display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.growing-beautiful-plants-at-home {
+   color: #1a1a1a;
+    text-align: left;
+    font: 700 72px/92px 'Nunito', sans-serif;
+    position: relative;
+    width: 548px;
+   }
+
+.frame-4 {
+   display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.lorem-ipsum {
+   color: #4a4a4a;
+    text-align: left;
+    font: 400 16px/160% 'DM Sans', sans-serif;
+    position: relative;
+    width: 504px;
+   }
+
+.frame-5 {
+   background: #066f14;
+    border-radius: 4px;
+    padding: 16px 32px 16px 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.learn-more {
+   color: #ffffff;
+    text-align: left;
+    font: 500 18px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.frame-6 {
+   display: flex;
+    flex-direction: row;
+    gap: 112px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.frame-7 {
+   display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+._2000 {
+   color: #001b04;
+    text-align: left;
+    font: 700 36px 'Nunito', sans-serif;
+    position: relative;
+   }
+
+.delivery {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 18px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.frame-8 {
+   display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+._1200 {
+   color: #001b04;
+    text-align: left;
+    font: 700 36px 'Nunito', sans-serif;
+    position: relative;
+   }
+
+.customers {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 18px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.frame-9 {
+   display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+._1000 {
+   color: #001b04;
+    text-align: left;
+    font: 700 36px 'Nunito', sans-serif;
+    position: relative;
+   }
+
+.product {
+   color: #1a1a1a;
+    text-align: left;
+    font: 400 18px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.klipartz-7 {
+   width: 157.1px;
+    height: 193.19px;
+    position: absolute;
+    left: 552.16px;
+   top: 447.09px;
+    transform-origin: 0 0;
+    transform: rotate(30.489deg) scale(1, 1);
+   }
+
+.group-1 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-10 {
+   background: rgba(6, 111, 20, 0.70);
+    border-radius: 4px;
+    padding: 16px 32px 16px 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 622px;
+   top: 260px;
+   }
+
+.cactus-stem {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.rectangle-1 {
+   background: #519a5a;
+    width: 95px;
+    height: 4px;
+    position: absolute;
+    left: 780px;
+   top: 284px;
+   }
+
+.frame-11{
+   width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 867px;
+   top: 278px;
+   }
+
+.ellipse-1 {
+   background: rgba(255, 255, 255, 0.54);
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.ellipse-2 {
+   background: #f4c300;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    left: 5px;
+   top: 5px;
+   }
+
+.group-2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-13 {
+   background: rgba(6, 111, 20, 0.70);
+    border-radius: 4px;
+    padding: 16px 32px 16px 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1111px;
+   top: 158px;
+   }
+
+.cactus-thorn {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.rectangle-22 {
+   background: #519a5a;
+    width: 115px;
+    height: 4px;
+    position: absolute;
+    left: 1111px;
+   top: 182px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.frame-183 {
+   width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 988px;
+   top: 176px;
+   }
+
+.ellipse-13 {
+   background: rgba(255, 255, 255, 0.50);
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 16px;
+   top: 0px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.ellipse-17 {
+   background: #f4c300;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    left: 5px;
+   top: 5px;
+   }
+
+.group-284 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-181 {
+   background: rgba(6, 111, 20, 0.70);
+    border-radius: 4px;
+    padding: 16px 32px 16px 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1111px;
+   top: 640px;
+   }
+
+.plant-media {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'DM Sans', sans-serif;
+    position: relative;
+   }
+
+.rectangle-23 {
+   background: #135d1d;
+    width: 72px;
+    height: 4px;
+    position: absolute;
+    left: 1111px;
+   top: 664px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.frame-184 {
+   width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 1030px;
+   top: 658px;
+   }
+
+.ellipse-14 {
+   background: rgba(255, 255, 255, 0.31);
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 16px;
+   top: 0px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.ellipse-15 {
+   background: #f4c300;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    left: 5px;
+   top: 5px;
+   }
+
